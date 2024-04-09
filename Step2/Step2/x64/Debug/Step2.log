@@ -1,0 +1,7 @@
+﻿  ChildView.cpp
+C:\Users\joeyv\source\repos\Step2\Step2\resource.h(10,1): warning C4005: 'IDCANCEL': macro redefinition
+  (compiling source file '/ChildView.cpp')
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11152,1):
+  see previous definition of 'IDCANCEL'
+  
+  Step2.vcxproj -> C:\Users\joeyv\source\repos\Step2\x64\Debug\Step2.exe
